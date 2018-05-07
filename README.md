@@ -18,3 +18,17 @@ These are the codes I wrote for the step 2 of Data Scientist Track at [Dataquest
 [Pandas Internals Series](https://github.com/huaqingji/data-analysis-and-visualization/blob/master/Data%20Analysis%20with%20Pandas%20Intermediate/Pandas%20Internals%20Series.py)
 
 [Working with Missing Data](https://github.com/huaqingji/data-analysis-and-visualization/blob/master/Data%20Analysis%20with%20Pandas%20Intermediate/Working%20with%20Missing%20Data.py)
+
+## Exploratory Data Visualization
+
+[Bar Plots And Scatter Plots](https://github.com/huaqingji/data-analysis-and-visualization/blob/master/Exploratory%20Data%20Visualization/Bar%20Plots%20And%20Scatter%20Plots.py)
+
+[Histograms And Box Plots](https://github.com/huaqingji/data-analysis-and-visualization/blob/master/Exploratory%20Data%20Visualization/Histograms%20And%20Box%20Plots.py)
+
+[Line Charts](https://github.com/huaqingji/data-analysis-and-visualization/blob/master/Exploratory%20Data%20Visualization/Line%20Charts.py)
+
+[Multiple plots](https://github.com/huaqingji/data-analysis-and-visualization/blob/master/Exploratory%20Data%20Visualization/Multiple%20plots.py)
+
+
+
+
